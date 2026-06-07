@@ -1,6 +1,6 @@
 Linux Basic Commands
 
-![Ls](screenshots/ls.png)
+![Ls](Screenshot 2026-06-07 at 20.40.36.png)
 
 
 
