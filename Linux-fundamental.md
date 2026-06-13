@@ -13,6 +13,13 @@
 - `touch` - Create a file or update file timestamps
 - `mv` - Move or rename a file/directory
 - `rm` - Remove a file
+- `ps` - Display information about running processes
+- `cp` - Copy files and directories
+- `gzip` - Compress files using the GNU zip format
+- `zip` - Create and manage ZIP archives
+- `tar xvf mydir.tar` - Extract files from a TAR archive
+- `grep` - Search for text matching a pattern in files
+- `wc` - Count lines, words, and characters in a file
 
 
 
