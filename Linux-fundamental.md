@@ -21,7 +21,11 @@
 - `tar xvf mydir.tar` - Extract files from a TAR archive
 - `grep` - Search for text matching a pattern in files
 - `wc` - Count lines, words, and characters in a file
-
+- `less` - View large files efficiently without loading the entire file into memory
+- `date` - Display or set the system date and time
+- `df` - Show available and used disk space on file systems
+- `du` - Display disk usage of files and directories
+- `top` - Monitor running processes, CPU usage, and memory usage in real time
 
 
 
